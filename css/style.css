@@ -30,7 +30,7 @@ main {
     font-family: "Outfit", sans-serif;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
-    font-size: 1.3rem;
+    font-size: 1.32rem;
     width: 16rem;
     margin: 1.5rem 0 0 0;
     line-height: 120%;
@@ -43,7 +43,7 @@ main {
     font-size: 0.9375rem;
     width: 16rem;
     margin: 1rem 0 0 0;
-    line-height: 120%;
+    line-height: 150%;
   }
 }
 
